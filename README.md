@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
  
- <p>Leaning programming</p>
+ <p>Learning programming</p>
  <img width="100em" alt="abel" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif?cid=ecf05e474jao4qs9r7lpz3whpzz3l4hur6z392p9h4i349y4&rid=giphy.gif&ct=g">
 
 </div>
