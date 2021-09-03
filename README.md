@@ -4,8 +4,8 @@
  
  <div>
   <a href="https://github.com/abel56">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=abel56&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel56&layout=merko&langs_count=7&theme=merko"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=abel56&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel56&layout=merko&langs_count=7&theme=merko"/>
  </div>
 
  ##  
