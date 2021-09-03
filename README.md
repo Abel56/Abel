@@ -1,23 +1,24 @@
-<h1>Hello there, welcome to my profile.</h1>
+<h1>Hello there, welcome to my profile   <img align="center" width="100em" alt="abel" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif?cid=790b7611f653d4b95eedb4d0f2033a0c30002df8efd81177&rid=giphy.gif&ct=g"></h1>
 
 
  
  <div>
   <a href="https://github.com/abel56">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abel56&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel56&layout=merko&langs_count=7&theme=merko"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=abel56&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel56&layout=merko&langs_count=7&theme=merko"/>
  </div>
- 
- ##
-   <p>learning to code</p>
-  <img align="left" width="100em" alt="abel" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif?cid=ecf05e474jao4qs9r7lpz3whpzz3l4hur6z392p9h4i349y4&rid=giphy.gif&ct=g">
 
+ ##  
+
+  <img align="center" width="1000em" height="150em" alt="abel" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif">
+ 
  <div style="display: inline_block"><br>
   <img align="center" alt="Abel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Abel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Abel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Abel-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">  
  </div>
+
 
  
   ##
